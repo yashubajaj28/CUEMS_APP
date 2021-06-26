@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116697816933",
+    "project_id": "cuems-1133e",
+    "storage_bucket": "cuems-1133e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116697816933:android:9bc949e146112f886d4b8c",
+        "android_client_info": {
+          "package_name": "com.dataPirates.CUEMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116697816933-ua4kg082uj84lq7pmh4rn08dmh8ugdl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataPirates.CUEMS",
+            "certificate_hash": "481da52c03af3ca14106da9053774bbc004f8abf"
+          }
+        },
+        {
+          "client_id": "116697816933-a3f4ln995a2s7ej7fj27an9q3lg089ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAou0oVMBg68I_5F10MzvQTveDng0ezy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116697816933-a3f4ln995a2s7ej7fj27an9q3lg089ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
